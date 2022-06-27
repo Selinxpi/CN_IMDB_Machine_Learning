@@ -1,0 +1,11 @@
+newvenv
+aclImdb
+__pycache__
+dldata.py
+training.py
+.gz
+.rar
+.zip
+.tar
+data
+main.ipynb
